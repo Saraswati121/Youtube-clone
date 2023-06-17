@@ -14,7 +14,6 @@ function navbar(){
   </div>
   <div id="right">
     <div><i class="fas fa-video"></i></div>
-    <div><i class="fas fa-th"></i></div>
     <div><i class="fas fa-bell"></i></div>
     <div><i class="fas fa-user-circle"></i></div>
   </div>`
